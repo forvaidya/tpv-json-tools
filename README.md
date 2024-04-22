@@ -1,6 +1,8 @@
 # Schema Extractor
 
 A utility to extract schema and save it to a file.
+You must ensure that json file is valid using a command
+jq
 
 ## Prerequisite 
 ```pip3 install genson```
